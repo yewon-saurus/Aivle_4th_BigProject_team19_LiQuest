@@ -1,0 +1,6 @@
+[submodule "LiQuest_server"]
+	path = LiQuest_server
+	url = https://github.com/yewon-saurus/Aivle_BigProjectBE_19.git
+[submodule "LiQuest_client"]
+	path = LiQuest_client
+	url = https://github.com/yewon-saurus/Aivle_BigProjectFE_19.git
