@@ -1,4 +1,4 @@
-# LiQuest
+# <img src="https://yewon-saurus.github.io/Aivle_BigProjectFE_19/favicon.ico" width="30px" /> LiQuest
 
 KT 에이블스쿨 4기, 7반 19조 빅프로젝트 산출물 'LiQuest' 입니다.
 
@@ -11,16 +11,19 @@ KT 에이블스쿨 4기, 7반 19조 빅프로젝트 산출물 'LiQuest' 입니�
 - 작문해보기
     - 학습한 단어를 조합해 작문해 봅시다! ChatGPT가 확인하고 피드백을 제공합니다.
 
-[프론트엔드 저장소 :: GitHub :: yewon-saurus/Aivle_BigProjectFE_19](https://github.com/yewon-saurus/Aivle_BigProjectFE_19) <br>
-[백엔드 저장소 :: GitHub :: 6eom9eun/Aivle_BigProjectBE_19](https://github.com/6eom9eun/Aivle_BigProjectBE_19)
+## ✨ *LiQuest* 서비스 바로가기
+[<img src="https://yewon-saurus.github.io/Aivle_BigProjectFE_19/favicon.ico" width="15px" /> LiQuest - 문해력을 깨우는 모험의 시작 :: github.io![LiQuest info image](images/image.png)](https://yewon-saurus.github.io/Aivle_BigProjectFE_19/)
+
+[<img src="https://github.com/fluidicon.png" width="15px" /> 프론트엔드 저장소 :: GitHub :: yewon-saurus/Aivle_BigProjectFE_19](https://github.com/yewon-saurus/Aivle_BigProjectFE_19) <br>
+[<img src="https://github.com/fluidicon.png" width="15px" /> 백엔드 저장소 :: GitHub :: 6eom9eun/Aivle_BigProjectBE_19](https://github.com/6eom9eun/Aivle_BigProjectBE_19)
 
 ---
 # Getting Started
 
 ## Prerequisites
-- nodejs >= 14.x
-- npm >= 6.x
-- Python >= 3.10.x
+- `nodejs >= 14.x`
+- `npm >= 6.x`
+- `Python >= 3.10.x`
 
 ## Installation
 1. 소스코드 다운로드
